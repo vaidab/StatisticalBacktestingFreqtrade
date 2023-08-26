@@ -12,4 +12,4 @@ How to use:
 
 2. Optionally edit start\_date and end\_date to your desire timeframe for testing.
 
-3. Then use one of the 2 methods to get timeranges for testing and validating your strategy.
+3. Then use one of the methods to get timeranges for testing and validating your strategy.
